@@ -4,7 +4,7 @@ The project focuses on:
 * privacy & security (all data is end-to-end encrypted)
 * real time collaboration and offline functionality
 
-Let's give it a try on our [**`Demo Instance`**](https://formswizard.github.io/formswizard/new)
+Let's give it a try on our [**`Demo Instance`**](https://formswizard.winzlieb.eu/new.html)
 
 The Software consists of 3 components:
 1. The [forms-designer](https://github.com/FormsWizard/forms-designer) — A NoCode tool to create forms with a what-you-see-is-what-you-get drag&drop-editor.
